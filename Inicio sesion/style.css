@@ -1,0 +1,28 @@
+#contenido {
+    background-color: rgb(190, 235, 220);
+    display: flex;
+    border-radius: 40vw;
+    flex-direction: column;
+    margin-left: 30vw;
+    width: 40vw;
+    border: 1px solid rgb(255, 255, 255);
+    align-items: center;
+}
+
+#iniciar {
+    border-color: azure;
+    background-color: azure;
+    height: 3vw;
+    width: 10vw;
+    border-radius: 20vw;
+}
+
+#iniciar:hover {
+    border-color: rgb(166, 247, 220);
+    background-color: rgb(166, 247, 220);
+}
+
+#nose {
+    height: 40vw;
+    align-content: center;
+}
